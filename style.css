@@ -1,0 +1,11 @@
+.display-4{
+	text-align: center;
+}
+.lead{
+	text-align: center;
+}
+.jumbotron{
+	background-image: url(./images/bg2.jpg);
+	background-size: cover;
+	background-position: center;
+}
