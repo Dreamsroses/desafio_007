@@ -1,11 +1,24 @@
 .display-4{
 	text-align: center;
+	color: white;
 }
 .lead{
 	text-align: center;
+	color: white;
 }
 .jumbotron{
 	background-image: url(./images/bg2.jpg);
 	background-size: cover;
 	background-position: center;
+}
+.col-md-4{
+	margin: 0 auto;
+	border: auto;
+}
+.navbar-nav{
+	margin-left: auto;
+}
+.card.mb-5{
+	border: 10px solid #BEBEBF;
+	border-radius: 15px;
 }
